@@ -1,6 +1,6 @@
 # Hi There
 I am Harsh Verma
-- 2nd year student at [IIITD]()
+- Junior at [IIITD](https://www.iiitd.ac.in/)
 - Interested in Android and Web Development
 
 Online Accounts
