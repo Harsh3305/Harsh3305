@@ -2,7 +2,8 @@
 I am Harsh Verma
 - Junior at [IIITD](https://www.iiitd.ac.in/)
 - Interested in Android and Web Development
-- 3 🌟coder at CodeChef
+- Machine Learning Enthusiast
+- 3 🌟 coder at CodeChef
 - Interested in [IoT](https://azure.microsoft.com/en-us/overview/internet-of-things-iot/what-is-the-internet-of-things/)
 
 Online Accounts
