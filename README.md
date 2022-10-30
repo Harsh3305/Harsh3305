@@ -13,6 +13,9 @@ Online Accounts
 
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh3305&show_icons=true&theme=tokyonight)
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh3305&count_private=true&theme=tokyonight" />
+</p>
 
 Contract Me
 - [Telegram](https://t.me/hrverma)
