@@ -35,7 +35,6 @@ I am Harsh Verma
 ![apache_maven](https://user-images.githubusercontent.com/55652117/210249509-ba43f787-4079-4573-834a-715b1caed473.jpeg)
 ![gradle-elephant](https://user-images.githubusercontent.com/55652117/210249513-c001b6ce-7437-4664-af87-e7f66bae993d.png)
 ![android_studio](https://user-images.githubusercontent.com/55652117/210249787-7fed8e22-b3f3-4efa-9634-b60d9ec6157e.png)
-![apache_maven](https://user-images.githubusercontent.com/55652117/210249792-ae10067b-b1bf-4a25-aa25-e3ca2c0ff9f2.jpeg)
 ![datadog](https://user-images.githubusercontent.com/55652117/210249793-df52fb00-1d7e-41f6-8813-1e1fda81019b.png)
 ![datagrip](https://user-images.githubusercontent.com/55652117/210249795-d2d3a061-a54d-42d8-b149-8d14b53f69ef.png)
 ![gradle-elephant](https://user-images.githubusercontent.com/55652117/210249797-15d5d9f2-b2ab-424c-aa3a-3cd2f3745a35.png)
