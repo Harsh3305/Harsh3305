@@ -6,7 +6,7 @@ I am Harsh Verma
 - 🤖 Machine Learning Enthusiast
 - ☁️ Interested in Cloud Computing
 
-## Tools And Technology Used
+## ⚛️ Tools And Technology Used
 ![Kotlin](https://user-images.githubusercontent.com/55652117/210246211-7c3bbab5-bf9d-4c9a-96ac-d4c1a1ac4710.png)
 ![mongodb](https://user-images.githubusercontent.com/55652117/210248284-9c52c438-bdba-4950-b2aa-c2f7473da933.png)
 ![nextjs](https://user-images.githubusercontent.com/55652117/210247931-604c6d4f-8051-4477-b6d6-8ddda6956ff5.jpeg)
@@ -41,20 +41,23 @@ I am Harsh Verma
 ![hashicorp](https://user-images.githubusercontent.com/55652117/210249800-c6c2dd84-6056-48a6-9c9b-1b94b91ed5fd.png)
 ![pycharm](https://user-images.githubusercontent.com/55652117/210249806-75d73fd1-d1bf-45ed-9d6a-bd0292a79d84.png)
 
-## Github Stats
+## 📊 Github Stats
 [![Github](https://img.shields.io/github/followers/Harsh3305?label=Follow&style=social)](https://github.com/Harsh3305)
+![Github](https://img.shields.io/github/stars/Harsh3305?style=social)
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh3305&show_icons=true&theme=tokyonight)
+
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Harsh3305&count_private=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3305&theme=tokyonight)
 
-## Online Accounts
+## 🔍 Find me at
 - [LinkedIn](https://www.linkedin.com/in/harsh-verma-45423819b/)
 - [Github](https://github.com/Harsh3305)
 - [Twitter](https://twitter.com/harsh3305)
 - [Reddit](https://www.reddit.com/user/harsh3305/)
 
-## Contract Me
+## 📫 Contract Me
 - [Telegram](https://t.me/hrverma)
 - [Email](mailto:harshverma3305@gmail.com)
  
