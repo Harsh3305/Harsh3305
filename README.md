@@ -5,6 +5,7 @@ I am Harsh Verma
 - 🧪 Learning Web Development
 - 🤖 Machine Learning Enthusiast
 - ☁️ Interested in Cloud Computing
+[![An image of @harsh3305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh3305)](https://holopin.io/@harsh3305)
 
 ## ⚛️ Tools And Technology Used
 ![Kotlin](https://user-images.githubusercontent.com/55652117/210246211-7c3bbab5-bf9d-4c9a-96ac-d4c1a1ac4710.png)
