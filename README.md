@@ -1,7 +1,6 @@
 # 👋 Hi There
 I am Harsh Verma
-- 😎 SDE Backend Intern at [Expedia Groups](https://www.expediagroup.com/home/default.aspx)
-- 👨 Senior at [IIITD](https://www.iiitd.ac.in/)
+- 👨🏻‍🎓 Graduated from [IIITD](https://www.iiitd.ac.in/)
 - 🧪 Learning Web Development
 - 🤖 Machine Learning Enthusiast
 - ☁️ Interested in Cloud Computing
