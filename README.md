@@ -6,6 +6,18 @@ I am Harsh Verma
 - ☁️ Interested in Cloud Computing
 [![An image of @harsh3305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh3305)](https://holopin.io/@harsh3305)
 
+
+
+## 📊 Github Stats
+[![Github](https://img.shields.io/github/followers/Harsh3305?label=Follow&style=social)](https://github.com/Harsh3305)
+![Github](https://img.shields.io/github/stars/Harsh3305?style=social)
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh3305&show_icons=true&theme=tokyonight)
+
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=Harsh3305&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3305&theme=tokyonight)
+
 ## ⚛️ Tools And Technology Used
 ![Kotlin](https://user-images.githubusercontent.com/55652117/210246211-7c3bbab5-bf9d-4c9a-96ac-d4c1a1ac4710.png)
 ![mongodb](https://user-images.githubusercontent.com/55652117/210248284-9c52c438-bdba-4950-b2aa-c2f7473da933.png)
@@ -39,16 +51,6 @@ I am Harsh Verma
 ![datagrip](https://user-images.githubusercontent.com/55652117/210249795-d2d3a061-a54d-42d8-b149-8d14b53f69ef.png)
 ![hashicorp](https://user-images.githubusercontent.com/55652117/210249800-c6c2dd84-6056-48a6-9c9b-1b94b91ed5fd.png)
 ![pycharm](https://user-images.githubusercontent.com/55652117/210249806-75d73fd1-d1bf-45ed-9d6a-bd0292a79d84.png)
-
-## 📊 Github Stats
-[![Github](https://img.shields.io/github/followers/Harsh3305?label=Follow&style=social)](https://github.com/Harsh3305)
-![Github](https://img.shields.io/github/stars/Harsh3305?style=social)
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh3305&show_icons=true&theme=tokyonight)
-
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=Harsh3305&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3305&theme=tokyonight)
 
 ## 🔍 Find me at
 - [LinkedIn](https://www.linkedin.com/in/harsh-verma-45423819b/)
