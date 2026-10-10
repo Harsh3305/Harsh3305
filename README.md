@@ -1,64 +1,81 @@
-# 👋 Hi There
-I am Harsh Verma
-- 👨🏻‍🎓 Graduated from [IIITD](https://www.iiitd.ac.in/)
-- 🧪 Learning Web Development
-- 🤖 Machine Learning Enthusiast
-- ☁️ Interested in Cloud Computing
-[![An image of @harsh3305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh3305)](https://holopin.io/@harsh3305)
+# Harsh Verma
 
+**Software Development Engineer 2, Expedia Group** · Gurgaon, India
 
+Software engineer focused on data platforms and distributed systems. I build high-throughput backend and data infrastructure in Java, Kotlin, and Python across Apache Flink, Kafka, Spark, Airflow, AWS, Kubernetes, SQL, and Spring Boot.
 
-## 📊 Github Stats
-[![Github](https://img.shields.io/github/followers/Harsh3305?label=Follow&style=social)](https://github.com/Harsh3305)
-![Github](https://img.shields.io/github/stars/Harsh3305?style=social)
+[Online resume](https://harsh3305.github.io/MyResume/) · [LinkedIn](https://in.linkedin.com/in/harsh-verma-45423819b) · [GitHub](https://github.com/Harsh3305) · [harshverma3305@gmail.com](mailto:harshverma3305@gmail.com)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh3305&show_icons=true&theme=tokyonight)
+## Now
 
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=Harsh3305&count_private=true&theme=tokyonight)
+At Expedia Group I work on streaming data platforms and review systems. That includes an Apache Flink pipeline on AWS, where aggregations moved off MongoDB onto Flink’s native stateful processing with RocksDB, and a personalized review-form platform built from traveler and property data.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3305&theme=tokyonight)
+## Highlights
 
-## ⚛️ Tools And Technology Used
-![Kotlin](https://user-images.githubusercontent.com/55652117/210246211-7c3bbab5-bf9d-4c9a-96ac-d4c1a1ac4710.png)
-![mongodb](https://user-images.githubusercontent.com/55652117/210248284-9c52c438-bdba-4950-b2aa-c2f7473da933.png)
-![nextjs](https://user-images.githubusercontent.com/55652117/210247931-604c6d4f-8051-4477-b6d6-8ddda6956ff5.jpeg)
-![nodejs](https://user-images.githubusercontent.com/55652117/210247932-34d568aa-3f46-4366-a4cd-e439b6827d98.png)
-![python](https://user-images.githubusercontent.com/55652117/210247934-d75c2bfd-b245-4431-b6ae-2f1b698873c5.png)
-![react](https://user-images.githubusercontent.com/55652117/210247935-2923f11f-1e52-4af6-9cd0-9ee22fc0c780.png)
-![spring](https://user-images.githubusercontent.com/55652117/210247938-5ecc16de-6c79-4fec-b0eb-ec3de84a787c.png)
-![azure_2021](https://user-images.githubusercontent.com/55652117/210247906-48b4772b-a3d1-40ea-9741-59001ffd1bc8.png)
-![dartlang](https://user-images.githubusercontent.com/55652117/210247908-f99a2af5-d8c2-4c8b-8b3e-3045824312a1.png)
-![docker](https://user-images.githubusercontent.com/55652117/210247912-e578792f-ddad-4c62-a38c-ceec0ed34eb3.png)
-![flutter](https://user-images.githubusercontent.com/55652117/210247914-3ad6ae6a-fc04-4b83-8bef-e0a2880e5a2f.png)
-![git](https://user-images.githubusercontent.com/55652117/210247916-2f86041e-104f-490b-8e5d-70db8f624702.png)
-![github](https://user-images.githubusercontent.com/55652117/210247918-5111a5ab-a95d-4256-aa35-5866f55a3cc7.png)
-![javascript](https://user-images.githubusercontent.com/55652117/210247923-aaec13c9-c61c-42bc-9ee5-ad4983c6084e.png)
-![linux](https://user-images.githubusercontent.com/55652117/210247925-34820c89-1aa8-40ea-a2ab-46ff6ec71464.png)
-![java](https://user-images.githubusercontent.com/55652117/210247921-05438a21-48f8-478f-86fd-fa617cdf2ab3.png)
-![apache_kafka](https://user-images.githubusercontent.com/55652117/210249375-bbb02fde-ca53-48c8-802e-1e3cd135cd75.png)
-![elasticserch](https://user-images.githubusercontent.com/55652117/210249378-210db769-f96c-43d1-b790-a2c26cbf7eca.png)
-![firebase](https://user-images.githubusercontent.com/55652117/210249380-a6086c53-7c0c-4bf3-b4f3-1bb951afd560.png)
-![github-actions](https://user-images.githubusercontent.com/55652117/210249383-622094e9-5204-4dc0-b33b-a8a03141c16a.png)
-![intellij_idea](https://user-images.githubusercontent.com/55652117/210249386-f17d9169-412f-4f79-aa9b-37d175f7e0f8.png)
-![kubernetes](https://user-images.githubusercontent.com/55652117/210249387-be689617-5f34-4f1c-a607-658c75620627.png)
-![mongodb](https://user-images.githubusercontent.com/55652117/210249390-01ab1566-4db6-486c-ab4a-300fa0c04a12.png)
-![mysql](https://user-images.githubusercontent.com/55652117/210249394-af9c2508-ec98-43e9-b6f5-de801abd9232.png)
-![vscode](https://user-images.githubusercontent.com/55652117/210249398-0005e95a-d871-4417-9822-55e1479ef694.png)
-![apache_maven](https://user-images.githubusercontent.com/55652117/210249509-ba43f787-4079-4573-834a-715b1caed473.jpeg)
-![gradle-elephant](https://user-images.githubusercontent.com/55652117/210249513-c001b6ce-7437-4664-af87-e7f66bae993d.png)
-![android_studio](https://user-images.githubusercontent.com/55652117/210249787-7fed8e22-b3f3-4efa-9634-b60d9ec6157e.png)
-![datadog](https://user-images.githubusercontent.com/55652117/210249793-df52fb00-1d7e-41f6-8813-1e1fda81019b.png)
-![datagrip](https://user-images.githubusercontent.com/55652117/210249795-d2d3a061-a54d-42d8-b149-8d14b53f69ef.png)
-![hashicorp](https://user-images.githubusercontent.com/55652117/210249800-c6c2dd84-6056-48a6-9c9b-1b94b91ed5fd.png)
-![pycharm](https://user-images.githubusercontent.com/55652117/210249806-75d73fd1-d1bf-45ed-9d6a-bd0292a79d84.png)
+- **Flink streaming pipeline.** Architected and deployed an Apache Flink pipeline on AWS that scaled throughput from **123 TPS to 75K TPS**. Aggregation latency dropped from **300ms to 0.02ms**, and annual cloud cost fell by **$48K**.
+- **Personalized review forms.** Collaboratively developed a review-form platform using traveler and property data, increasing review collection rates by **12.8%** across three major brands.
+- **Review sentiment validation.** Built a platform for **500+ concepts** across **1.5M properties**, processing **12M+ reviews** and contributing to an estimated **$1M+** annual revenue impact.
+- **Content Accuracy Score.** Developed an MVP for **100K properties** by analyzing content quality, amenities, and negative review sentiment. Improved data accuracy for **46K properties**, impacting **32% ($14.7B)** of GBV and **502M page views** over six months.
 
-## 🔍 Find me at
-- [LinkedIn](https://www.linkedin.com/in/harsh-verma-45423819b/)
-- [Github](https://github.com/Harsh3305)
-- [Twitter](https://twitter.com/harsh3305)
-- [Reddit](https://www.reddit.com/user/harsh3305/)
+## Open source
 
-## 📫 Contract Me
-- [Telegram](https://t.me/hrverma)
-- [Email](mailto:harshverma3305@gmail.com)
- 
+**Micrometer** — contributed to the Micrometer core ecosystem with a feature that enables dynamic tags in Log4j2 counter metrics, to improve real-time application observability.
+
+## Featured project
+
+**[HRV-Mart](https://hrv-mart.github.io/docs/)** — e-commerce backend (Jan 2023 – Aug 2023)
+
+Scalable e-commerce backend using microservices, Spring Boot, reactive programming, MongoDB, Kafka, Docker, Kubernetes, and GitHub Actions, with CI/CD on Azure and testing workflows for maintainable production releases.
+
+## Experience
+
+| Role | Organization | Dates |
+| --- | --- | --- |
+| Software Development Engineer 2 | Expedia Group, Gurgaon | Jan 2025 – current |
+| Software Development Engineer 1 | Expedia Group, Gurgaon | Aug 2023 – Jan 2025 |
+| Software Development Engineer Intern | Expedia Group, Gurgaon | May 2022 – Aug 2022 |
+
+As an intern, migrated 4 Spring Boot applications from a legacy brand-specific cloud platform to a brand-agnostic platform, reducing costs by **73%**, and built personalized review sorting from traveler locale, location, brand preference, and review relevancy.
+
+## Education
+
+**B.Tech, Electronics and Communication Engineering**, [IIIT-Delhi](https://www.iiitd.ac.in/) · Aug 2019 – Aug 2023
+
+Coursework: Data Structures and Algorithms, DBMS, Distributed Systems, Machine Learning, OOP in Java, Computer Vision, Computer Architecture.
+
+## Tech stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+
+**Data and backend**
+
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-111827?style=flat-square&logo=apacheflink&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-111827?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111827?style=flat-square&logo=apacheairflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
+![Hive](https://img.shields.io/badge/Hive-111827?style=flat-square&logo=apachehive&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-111827?style=flat-square)
+![REST](https://img.shields.io/badge/REST-111827?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-111827?style=flat-square&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+
+Also: Claude Code, GitHub Copilot, Gen AI.
