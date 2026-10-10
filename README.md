@@ -17,6 +17,10 @@ At Expedia Group I work on streaming data platforms and review systems. That inc
 - **Review sentiment validation.** Built a platform for **500+ concepts** across **1.5M properties**, processing **12M+ reviews** and contributing to an estimated **$1M+** annual revenue impact.
 - **Content Accuracy Score.** Developed an MVP for **100K properties** by analyzing content quality, amenities, and negative review sentiment. Improved data accuracy for **46K properties**, impacting **32% ($14.7B)** of GBV and **502M page views** over six months.
 
+## Open source
+
+**Micrometer** (2024 – present) — contributed to the Micrometer core ecosystem with a feature that enables dynamic tags in Log4j2 counter metrics, to improve real-time application observability.
+
 ## Featured project
 
 **[HRV-Mart](https://hrv-mart.github.io/docs/)** — e-commerce backend (Jan 2023 – Aug 2023)
