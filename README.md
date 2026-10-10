@@ -19,7 +19,7 @@ At Expedia Group I work on streaming data platforms and review systems. That inc
 
 ## Open source
 
-**Micrometer** (2024 – present) — contributed to the Micrometer core ecosystem with a feature that enables dynamic tags in Log4j2 counter metrics, to improve real-time application observability.
+**Micrometer** — contributed to the Micrometer core ecosystem with a feature that enables dynamic tags in Log4j2 counter metrics, to improve real-time application observability.
 
 ## Featured project
 
