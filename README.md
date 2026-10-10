@@ -4,7 +4,7 @@
 
 Software engineer focused on data platforms and distributed systems. I build high-throughput backend and data infrastructure in Java, Kotlin, and Python across Apache Flink, Kafka, Spark, Airflow, AWS, Kubernetes, SQL, and Spring Boot.
 
-[Online resume](https://harsh3305.github.io/MyResume/) · [LinkedIn](https://in.linkedin.com/in/harsh-verma-45423819b) · [GitHub](https://github.com/Harsh3305) · [harshverma3305@gmail.com](mailto:harshverma3305@gmail.com)
+[Online resume](https://harsh3305.github.io/MyResume/) · [LinkedIn](https://www.linkedin.com/in/harsh-verma-45423819b/) · [GitHub](https://github.com/Harsh3305) · [harshverma3305@gmail.com](mailto:harshverma3305@gmail.com)
 
 ## Now
 
